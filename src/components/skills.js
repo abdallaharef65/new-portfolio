@@ -18,19 +18,22 @@ const Skills = () => {
               <h1>Html</h1>
             </div>
             <div>
-              <h1>css</h1>
+              <h1>Css</h1>
             </div>
             <div>
-              <h1>javascript</h1>
+              <h1>Javascript</h1>
             </div>
             <div>
-              <h1>bootstrap</h1>
+              <h1>Bootstrap</h1>
             </div>
             <div>
-              <h1>react</h1>
+              <h1>React</h1>
             </div>
             <div>
               <h1>ES6</h1>
+            </div>
+            <div>
+              <h1>Redux</h1>
             </div>
           </div>
         </div>
