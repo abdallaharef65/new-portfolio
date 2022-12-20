@@ -22,7 +22,7 @@ const Projects = () => {
                 <h3>Restaurantly</h3>
               </div>
               <div className="info">
-                <a href=""> Preview</a>
+                <a href=""> </a>
               </div>
             </div>
 
@@ -32,7 +32,7 @@ const Projects = () => {
                 <h3>EDU</h3>
               </div>
               <div className="info">
-                <a href=""> Preview</a>
+                <a href=""> </a>
               </div>
             </div>
           </div>
