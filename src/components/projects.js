@@ -22,10 +22,7 @@ const Projects = () => {
                 <h3>Restaurantly</h3>
               </div>
               <div className="info">
-                <a href="https://abdallaharef65.github.io/Restaurantly/">
-                  {" "}
-                  Preview
-                </a>
+                <a href=""> Preview</a>
               </div>
             </div>
 
@@ -35,10 +32,7 @@ const Projects = () => {
                 <h3>EDU</h3>
               </div>
               <div className="info">
-                <a href="https://abdallaharef65.github.io/EDUCATION/">
-                  {" "}
-                  Preview
-                </a>
+                <a href=""> Preview</a>
               </div>
             </div>
           </div>
